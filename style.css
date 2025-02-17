@@ -1,0 +1,62 @@
+h1 {
+    display: inline-block;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-align: center;
+    background-color: lightblue;
+    margin: 2px;
+}
+
+h2 {
+    color: black;
+    background-color: lightyellow;
+    text-align: center;
+    display: inline-block;
+}
+
+table {
+    background-color: white;
+    border-color: lightyellow;
+    height: 200px;
+    padding: 4px;
+    margin: 5px;
+}
+
+img {
+    height: 200px;
+    background-color: lightblue;
+    padding: 4px;
+    margin: 5px 5px 5px 10px;
+}
+
+#canned {
+    background-color: lightcoral;
+}
+
+#dry-goods {
+    background-color: lightseagreen;
+}
+
+#veggies{
+    background-color: lightgreen;
+}
+
+#snacks {
+    background-color: lightpink;
+}
+
+#pantry-table {
+    display: inline-block;
+}
+
+#pantry-img {
+    display: inline-block;
+}
+
+#frzr-table {
+    display: inline-block;
+}
+
+#frzr-img {
+    display: inline-block;
+}
